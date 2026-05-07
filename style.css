@@ -1,0 +1,37 @@
+/* ================================
+   Morretes - PR | style.css
+   ================================ */
+
+/* Boas-vindas */
+.boas-vindas {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    padding: 100px 0;
+}
+
+/* Carrossel - altura e slides */
+.carousel-inner {
+    height: 420px;
+}
+
+.carousel-item {
+    height: 420px;
+    background-size: cover;
+    background-position: center;
+}
+
+.slide-hisgeopar {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+}
+
+
+.slide-marumbi {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+}
+
+.slide-rio {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+}
+
+.slide-graciosa {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+}
