@@ -1,20 +1,15 @@
-/* ================================
-   Morretes - PR | style.css
-   ================================ */
-
-/* Boas-vindas */
 .boas-vindas {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    background-color: rgb(69, 128, 69);
     padding: 100px 0;
 }
 
-/* Carrossel - altura e slides */
 .carousel-inner {
-    height: 420px;
+    height: 600px;
 }
 
 .carousel-item {
-    height: 420px;
+    height: 600px;
     background-size: cover;
     background-position: center;
 }
